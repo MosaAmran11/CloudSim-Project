@@ -1,4 +1,3 @@
-import java.text.DecimalFormat;
 import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.LinkedList;
@@ -21,7 +20,6 @@ import org.cloudbus.cloudsim.VmSchedulerTimeShared;
 import org.cloudbus.cloudsim.core.CloudSim;
 import org.cloudbus.cloudsim.provisioners.BwProvisionerSimple;
 import org.cloudbus.cloudsim.provisioners.PeProvisionerSimple;
-import org.cloudbus.cloudsim.provisioners.RamProvisioner;
 import org.cloudbus.cloudsim.provisioners.RamProvisionerSimple;
 
 public class LoadBalancing {
